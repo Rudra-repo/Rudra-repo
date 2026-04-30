@@ -76,7 +76,7 @@ Saarthi acts as a digital "Charioteer," helping vulnerable populations overcome 
 *   **🛠️ Key Features:** Custom JSON-parsing regex utilities for LLM hallucination handling, bilingual UI (English/Hindi), optimistic UI updates, and offline resilience via Local Storage.
 *   **💡 Impact:** Strips away the complexity of cross-border and local civic data, bridging the gap between unstructured human problems and structured bureaucratic solutions.
 
-🔗 [View Repository](https://github.com/Rudra-repo/Saarthi) | [▶️ Watch Demo Video](https://drive.google.com/file/d/1MJLy4IP2g8NYjp9bQ0bsT1cTU2aDZlUK/view?usp=sharing)
+🔗 [View Repository]([https://github.com/Rudra-repo/Saarthi](https://github.com/Rudra-repo/Saarthi-New-React-Project-.git)) | [▶️ Watch Demo Video](https://drive.google.com/file/d/1MJLy4IP2g8NYjp9bQ0bsT1cTU2aDZlUK/view?usp=sharing)
 
 ---
 
